@@ -3,15 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-<<<<<<< HEAD
     <StartupObject>Algorithm.Lesson_2.Binary</StartupObject>
-=======
-    <StartupObject>Algorithm.Lesson_3.Distance</StartupObject>
->>>>>>> Lesson_3
   </PropertyGroup>
-
-  <ItemGroup>
-    <PackageReference Include="BenchmarkDotNet" Version="0.13.1" />
-  </ItemGroup>
 
 </Project>
