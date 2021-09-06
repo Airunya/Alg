@@ -3,7 +3,7 @@
   <PropertyGroup>
     <OutputType>Exe</OutputType>
     <TargetFramework>net5.0</TargetFramework>
-    <StartupObject>Algorithm.Lesson_1.Class1</StartupObject>
+    <StartupObject>Algorithm.Lesson_2.Binary</StartupObject>
   </PropertyGroup>
 
 </Project>
